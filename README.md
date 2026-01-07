@@ -110,9 +110,3 @@ mvn clean package
 
 ---
 
-**Author:** alterra47
-
-**Project Link:** [https://github.com/YourUsername/Saviynt-IGA-Project](https://www.google.com/search?q=https://github.com/YourUsername/Saviynt-IGA-Project)
-
-```
-
