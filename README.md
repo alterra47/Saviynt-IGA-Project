@@ -1,13 +1,3 @@
-
-### **Action:**
-
-1. Create a file named `README.md` in your project root.
-2. Paste the content below.
-3. (Optional) Create a folder named `screenshots` and put images of your Login, Employee, and Manager pages there.
-
----
-
-```markdown
 # Identity Governance & Administration (IGA) Prototype
 
 A robust Java web application demonstrating core Identity Governance principles, including **Role-Based Access Control (RBAC)** and **Access Request Workflows**.
@@ -128,4 +118,3 @@ mvn clean package
 
 ```
 
-```
