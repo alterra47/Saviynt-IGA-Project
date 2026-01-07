@@ -25,8 +25,6 @@ Built to simulate a real-world enterprise environment where employees request ac
 * **Server:** Apache Tomcat 10.1 (Smart Tomcat)
 * **Build Tool:** Maven
 
-## 📸 Screenshots
-
 ## ⚙️ Setup & Installation
 
 ### 1. Database Setup (PostgreSQL)
